@@ -1,4 +1,4 @@
-nginx
+infiniflow/ragflow-base:v2.0
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
