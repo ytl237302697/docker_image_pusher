@@ -1,7 +1,6 @@
 # es1
 mysql:8.0.37
 ghcr.io/open-webui/open-webui:main
-openwebui/open-webui
 ollama/ollama
 nginx
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
