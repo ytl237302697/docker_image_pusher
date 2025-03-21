@@ -5,3 +5,4 @@ ghcr.io/open-webui/open-webui:main
 ollama/ollama
 nginx
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+rockchin/langbot:latest
