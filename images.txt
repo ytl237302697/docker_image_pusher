@@ -7,4 +7,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #rockchin/langbot:latest
 #mongo:latest
-gitlab/gitlab-ce:16.9.0
+gitlab/gitlab-ce
