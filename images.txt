@@ -1,9 +1,10 @@
 # es1
-eosphorosai/dbgpt:latest
-mysql:8.0.37
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
-nginx
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-rockchin/langbot:latest
-mongo:latest
+#eosphorosai/dbgpt:latest
+#mysql:8.0.37
+#ghcr.io/open-webui/open-webui:main
+#ollama/ollama
+#nginx
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#rockchin/langbot:latest
+#mongo:latest
+gitlab/gitlab-ce:16.9.0
